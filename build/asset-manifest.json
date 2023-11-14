@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.967a31e5.css",
+    "main.js": "./static/js/main.d78fb150.js",
+    "static/media/explore_Sikkim.pdf": "./static/media/explore_Sikkim.b90e6e8a325f6d4d45cc.pdf",
+    "static/media/Offbeat_North_Bengal.pdf": "./static/media/Offbeat_North_Bengal.28bda6c7d0adb9762587.pdf",
+    "static/media/Kedar_kanth.pdf": "./static/media/Kedar_kanth.f50b21fbdcf9df906788.pdf",
+    "static/media/Tree_House_North_Bengal.pdf": "./static/media/Tree_House_North_Bengal.49322553e8ae6ccf2126.pdf",
+    "static/media/Orissa_Bhitarkanika.pdf": "./static/media/Orissa_Bhitarkanika.45aa2b102d639dbbe1b7.pdf",
+    "static/media/Tree_House_Camp_Purulia.pdf": "./static/media/Tree_House_Camp_Purulia.cc6c9eb56d597d458b1f.pdf",
+    "static/media/hero.png": "./static/media/hero.decd6e523fe133c3c563.png",
+    "static/media/avatarImage.jpeg": "./static/media/avatarImage.d37df0395195993244c9.jpeg",
+    "static/media/Destination5.png": "./static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "./static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/Destination1.png": "./static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination6.png": "./static/media/Destination6.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "./static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "./static/media/Destination3.b4028caa98dffd19d08e.png",
+    "index.html": "./index.html",
+    "main.967a31e5.css.map": "./static/css/main.967a31e5.css.map",
+    "main.d78fb150.js.map": "./static/js/main.d78fb150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967a31e5.css",
+    "static/js/main.d78fb150.js"
+  ]
+}
